@@ -1,16 +1,13 @@
 # Nikitin Dmitry # 
 ### Male, 37 years, born on 3 July 1982  
 
-Format: ![My photo](https://cloud.mail.ru/public/3Rj3/3ePb1N8e8)
 
-##Contact Information:
-* +7 (927) 5000050  
+## Contact Information:
+* +7 (927) 5000050  (Viber, WharsApp, Telegram)
 
 * +7 (988) 9875577  
 
-* fairmentat@yandex.ru — preferred means of communication  
-
-* ICQ: 270066579  
+* fairmentat@mail.ru — preferred means of communication  
 
 * Skype: dmitrii_nikitin  
 

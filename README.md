@@ -1,1 +1,1 @@
-# rsschool-cv
+[My CV](https://fairmentat.github.io/rsschool-cv/cv)

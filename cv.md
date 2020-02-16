@@ -61,10 +61,38 @@ __Examination works related to programming in the following subjects at the univ
 * Machine Dependent Languages ​​(Assembler)
 * Mobile and Embedded OS (Java)
 * Databases (MS SQL + C #)
-* System Software Basics (C ++ + C #)
+* System Software Basics (C ++ + C #)  
+
 [See examples](https://cloud.mail.ru/public/4LoW/42D1hk8r4)
 
+### Work experience ###
+* __No programming experience__
 
+* Self-employed - Apple Computer Tuning and Training Specialist (2017 -....)
+* PJSC Rostelecom - Territorial Manager for Volgograd (2016)
+* BIS LLC - Director of Sales Service (2016)
+* Media Markt LLC - Head of Computer Technology (2015)
+* GameZone LLC - Director of the group of stores (2010-2015)
+* PJSC MEGAFON - Head of Sales Office (2007-2010)
+
+### Languages ###
+* Russian — Native
+* English — B1 — Pre-intermediate
+
+
+
+
+
+
+
+
+
+
+
+
+__P.S.__  
+
+__Sorry for my English =))__
 
 
 

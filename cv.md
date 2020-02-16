@@ -47,21 +47,21 @@ In 2019, studied Java, in connection with this, purchased the JavaRush online co
 
 ### Education: ###
 
-[Volgograd State Technical University (Computer Aided Design and Search Engine Design Systems)](http://www.vstu.ru/university/fakultety-i-kafedry/fakultet-elektroniki-i-vychislitelnoy-tekhniki/kafedry/kafedra-sapr/) - graduation in 2021
-[Volgograd State Social and Pedagogical University (Technology and Service)](https://vspu.ru/dfey) - graduated in 2011
-[Volgograd State College of Management and New Technologies (Hotel Services and Tourism)](http://www.vgkuint.ru/) - graduated in 2003
+* [Volgograd State Technical University (Computer Aided Design and Search Engine Design Systems)](http://www.vstu.ru/university/fakultety-i-kafedry/fakultet-elektroniki-i-vychislitelnoy-tekhniki/kafedry/kafedra-sapr/) - graduation in 2021
+* [Volgograd State Social and Pedagogical University (Technology and Service)](https://vspu.ru/dfey) - graduated in 2011
+* [Volgograd State College of Management and New Technologies (Hotel Services and Tourism)](http://www.vgkuint.ru/) - graduated in 2003
 
-Java Online Course on the [JavaRush Platform](https://javarush.ru/) - Level 20, 412 Tasks Completed
-C ++ online course on the [SimpleCode channel](https://www.youtube.com/channel/UCtLKO1Cb2GVNrbU7Fi0pM0w) - 80 lectures, 32 assignments completed
-HTML / CSS online course on the [HTML Academy platform](https://htmlacademy.ru/) - completed 20 assignments
+* Java Online Course on the [JavaRush Platform](https://javarush.ru/) - Level 20, 412 Tasks Completed
+* C ++ online course on the [SimpleCode channel](https://www.youtube.com/channel/UCtLKO1Cb2GVNrbU7Fi0pM0w) - 80 lectures, 32 assignments completed
+* HTML / CSS online course on the [HTML Academy platform](https://htmlacademy.ru/) - completed 20 assignments
 
-Examination works related to programming in the following subjects at the university:
-Fundamentals of Programming (C ++)
-Object Oriented Programming Basics (C #)
-Machine Dependent Languages ​​(Assembler)
-Mobile and Embedded OS (Java)
-Databases (MS SQL + C #)
-System Software Basics (C ++ + C #)
+__Examination works related to programming in the following subjects at the university:__
+* Fundamentals of Programming (C ++)
+* Object Oriented Programming Basics (C #)
+* Machine Dependent Languages ​​(Assembler)
+* Mobile and Embedded OS (Java)
+* Databases (MS SQL + C #)
+* System Software Basics (C ++ + C #)
 [See examples](https://cloud.mail.ru/public/4LoW/42D1hk8r4)
 
 

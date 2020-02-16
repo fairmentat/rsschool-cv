@@ -27,17 +27,22 @@ At the moment, I am successfully getting my second higher education at Volgograd
 In 2019, studied Java, in connection with this, purchased the JavaRush online course, completely covered Java Syntax and Java Core topics, solved more than 400 practical tasks, partially read Herbert Schildt’s books “Java 8. A Guide for Beginners,” “Learning Java »Sierra Katie. As part of the university’s curriculum, the Weather application for the Android OS has been written in the Android Studio IDE. I am actively continuing to study everything related to the technology stack for Java Junior (SQL, Git, HTML / CSS).
 
 ## Skills ##
+
 #### Basic level: ####
+* Assembly language
 * C++ 
 * С# 
 * Java 
-* Assembly language
 * MySQL
 * Microsoft SQL
 * HTML/CSS
 * Git
 
+### Code examples: ###
 
+[HTML/CSS](https://fairmentat.github.io/test/portfolio-step-1/)
+[Java](https://github.com/fairmentat/DOMINATOR.git)
+[C++](https://github.com/fairmentat/Labs.git)
 
 
 

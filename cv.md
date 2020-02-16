@@ -40,9 +40,10 @@ In 2019, studied Java, in connection with this, purchased the JavaRush online co
 
 ### Code examples: ###
 
-[HTML/CSS](https://fairmentat.github.io/test/portfolio-step-1/)
-[Java](https://github.com/fairmentat/DOMINATOR.git)
-[C++](https://github.com/fairmentat/Labs.git)
+* [HTML/CSS](https://fairmentat.github.io/test/portfolio-step-1/)
+* [Java](https://github.com/fairmentat/DOMINATOR.git)
+* [C++](https://github.com/fairmentat/Labs.git)
+* [MS SQL+WinForms C#](https://github.com/fairmentat/Labs.git)
 
 
 

@@ -1,6 +1,14 @@
-.test {
-color: blue;
-font-size: larger;
+.FirstRequest {
 
+max-width: 1024px;
+margin: 0 auto;
+padding: 0 10px;
+
+
+}
+
+.list {
+
+text-align: left;
 
 }
